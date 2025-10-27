@@ -8,14 +8,14 @@ Chapter-wise C programming practice sets.
 I am documenting my journey learning C programming with Code With Harry’s course. Up to now, I’ve completed practice sets for Chapters 1–8.
 
 **Learning Timeline:**
-- Chapter 1: Basics of C
-- Chapter 2: Data Types
-- Chapter 3: Operators & Expressions
-- Chapter 4: Control Flow
+- Chapter 1: Variables, constants, and keywords
+- Chapter 2: Instructions and operators
+- Chapter 3: Conditional Instructions
+- Chapter 4: Loop control instructions
 - Chapter 5: Functions
-- Chapter 6: Arrays
-- Chapter 7: Strings
-- Chapter 8: Practice Set
+- Chapter 6: Pointers
+- Chapter 7: Arrays
+- Chapter 8: Strings
 
 **Notes on the Code:**
 - Most problems are straightforward, so I haven’t added extensive comments.
